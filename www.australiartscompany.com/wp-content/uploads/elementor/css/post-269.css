@@ -1,0 +1,211 @@
+.elementor-269 .elementor-element.elementor-element-5e592e95>.elementor-shape-top .elementor-shape-fill {
+    fill: #F7F8FB;
+}
+
+.elementor-269 .elementor-element.elementor-element-5e592e95>.elementor-shape-top svg {
+    height: 115px;
+}
+
+.elementor-269 .elementor-element.elementor-element-5e592e95 {
+    padding: 95px 0px 80px 0px;
+}
+
+.elementor-269 .elementor-element.elementor-element-2d48e46b>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+    color: var( --e-global-color-primary);
+}
+
+body:not(.rtl) .elementor-269 .elementor-element.elementor-element-39096ebe {
+    left: 0px;
+}
+
+body.rtl .elementor-269 .elementor-element.elementor-element-39096ebe {
+    right: 0px;
+}
+
+.elementor-269 .elementor-element.elementor-element-39096ebe {
+    top: 0px;
+    z-index: 0;
+    text-align: center;
+}
+
+.elementor-269 .elementor-element.elementor-element-39096ebe .elementor-heading-title {
+    font-family: "Archivo", Sans-serif;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 1em;
+    letter-spacing: -0.5px;
+    text-shadow: 0px 0px 1px #585367;
+    mix-blend-mode: multiply;
+    color: #FFFFFF;
+}
+
+.elementor-269 .elementor-element.elementor-element-426b6bf6>.elementor-widget-container {
+    margin: 45px 0px 0px 0px;
+}
+
+.elementor-269 .elementor-element.elementor-element-426b6bf6 .elementskit-section-title-wraper .elementskit-section-title {
+    color: #084C61;
+    margin: 0px 0px 10px 0px;
+    font-family: "Archivo", Sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 1em;
+    letter-spacing: -1px;
+}
+
+.elementor-269 .elementor-element.elementor-element-426b6bf6 .elementskit-section-title-wraper .elementskit-section-title>span {
+    color: #EA6B5B;
+}
+
+.elementor-269 .elementor-element.elementor-element-426b6bf6 .elementskit-section-title-wraper .elementskit-section-title:hover>span {
+    color: #000000;
+}
+
+.elementor-269 .elementor-element.elementor-element-426b6bf6 .elementskit-section-title-wraper .elementskit-section-title span:last-child,
+.elementor-269 .elementor-element.elementor-element-426b6bf6 .elementskit-section-title-wraper .elementskit-section-title>span {
+    font-family: "Playfair Display", Sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.elementor-269 .elementor-element.elementor-element-c658997 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-widget-premium-media-wheel .premium-adv-carousel__media-title {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .premium-adv-carousel__media-desc {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .flipster__button i {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .flipster__button svg,
+.elementor-widget-premium-media-wheel .flipster__button svg * {
+    fill: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .flipster__button {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image i {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image svg {
+    fill: var( --e-global-color-primary);
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image span {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image:hover i {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image:hover svg {
+    fill: var( --e-global-color-primary);
+    color: var( --e-global-color-primary);
+}
+
+.elementor-widget-premium-media-wheel .pa-media-magnific-image:hover span {
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-b2a4888 img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-b2a4888 .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-b2a4888 .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-c15d3d8 img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-c15d3d8 .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-c15d3d8 .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-10046bd img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-10046bd .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-10046bd .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-d5d6241 img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-d5d6241 .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-d5d6241 .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-af9b7a8 img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-af9b7a8 .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-af9b7a8 .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-66fb90c img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-66fb90c .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-66fb90c .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-4c9af4b img.premium-adv-carousel__item-img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-4c9af4b .premium-adv-carousel__item-img img,
+.elementor-269 .elementor-element.elementor-element-01ff638 .elementor-repeater-item-4c9af4b .vid-overlay {
+    object-fit: cover;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638.premium-adv-carousel__horizontal .premium-adv-carousel__items {
+    column-gap: 5px;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638.premium-adv-carousel__vertical .premium-adv-carousel__items {
+    row-gap: 5px;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638.premium-adv-carousel__infinite {
+    --pa-wheel-spacing: 5;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .premium-adv-carousel__items {
+    animation-direction: normal !important;
+    align-items: flex-start;
+    animation-duration: calc( 50 * 1000ms) !important;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .premium-adv-carousel__media-info-wrap {
+    text-align: flex-start;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .pa-media-icons-inner-container i {
+    font-size: 20px;
+}
+
+.elementor-269 .elementor-element.elementor-element-01ff638 .pa-media-icons-inner-container svg {
+    width: 20px;
+    height: 20px;
+}
+
+@media(max-width:767px) {
+    .elementor-269 .elementor-element.elementor-element-39096ebe .elementor-heading-title {
+        font-size: 70px;
+    }
+}
